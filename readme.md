@@ -49,7 +49,7 @@ Edit settings json with your:
 
 Start the python bot:
 ```
-python lokitxbot.py
+python ogrebot.py
 ```
 
 Exit all screens safely using:
