@@ -35,8 +35,8 @@ sudo python setup.py install
 Settings are stored in the settings.json file.
 
 Edit settings json with your:
-- TradeOgre apikey
-- TradeOrgre apisecret
+- TradeOgre APIkey
+- TradeOrge APIsecret
 - TradeOgre Monero Destination Address
 - Amount to sell every day
 - Cycle period (seconds - recommend 3600 for 1 hour)
